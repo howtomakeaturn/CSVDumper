@@ -1,0 +1,16 @@
+{
+    "name": "howtomakeaturn/csvdumper",
+    "type": "library",
+    "description": "Dump database into csv format.",
+    "keywords": ["laravel","csv", "database", "backup"],
+    "homepage": "https://github.com/howtomakeaturn/CSVDumper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chuan-Hao, You",
+            "email": "howtomakeaturn@hotmail.com",
+            "homepage": "http://blog.turn.tw",
+            "role": "Developer"
+        }
+    ]
+}
