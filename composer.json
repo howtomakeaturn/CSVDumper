@@ -12,5 +12,10 @@
             "homepage": "http://blog.turn.tw",
             "role": "Developer"
         }
-    ]
+    ],
+	"autoload": {
+        "psr-0": { 
+            "Howtomakeaturn\\CSVDumper": "src"
+        }
+	},    
 }
