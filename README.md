@@ -15,3 +15,19 @@ Get a CSV format string of a table
 $dumper = new Howtomakeaturn\CSVDumper\CSVDumper($tableName);
 $result = $dumper->dumpTable();
 ```
+
+## Installing
+
+Using Composer:
+
+```
+$ composer require 'howtomakeaturn/csvdumper:dev-master'
+```
+
+Or via json file:
+
+```
+"require": {
+        "howtomakeaturn/csvdumper": "dev-master"
+}
+```
