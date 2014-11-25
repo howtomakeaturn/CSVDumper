@@ -21,13 +21,13 @@ $result = $dumper->dumpTable();
 Using Composer:
 
 ```
-$ composer require 'howtomakeaturn/csvdumper:dev-master'
+$ composer require 'howtomakeaturn/csvdumper:1.0.0'
 ```
 
 Or via json file:
 
 ```
 "require": {
-        "howtomakeaturn/csvdumper": "dev-master"
+        "howtomakeaturn/csvdumper": "1.0.0"
 }
 ```
